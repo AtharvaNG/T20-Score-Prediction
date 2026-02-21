@@ -211,3 +211,7 @@ __marimo__/
 #my files to ignore
 .virtual_documents
 anaconda_projects
+data
+test_data_ingestion.py
+t20s
+raw_df.pkl
