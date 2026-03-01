@@ -43,3 +43,4 @@ def ingest_data(data_dir):
     os.makedirs("artifacts",exist_ok=True)
     df.to_pickle("artifacts/raw_df.pkl")
 
+    return df
