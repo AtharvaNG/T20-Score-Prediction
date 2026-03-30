@@ -8,4 +8,5 @@ streamlit
 python-dotenv
 PyYAML
 tqdm
+xgboost
 #-e .
