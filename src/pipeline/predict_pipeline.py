@@ -1,7 +1,7 @@
 import pickle
 import pandas as pd
 
-class PredidctPipeline:
+class PredictPipeline:
 
     def __init__(self):
         
