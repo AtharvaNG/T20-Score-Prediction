@@ -31,6 +31,6 @@ def train_model(X_train,X_test,y_train,y_test):
     print("MAE:",mae)
     
     with open("artifacts/model.pkl","wb") as f:
-        pickle.dump(model,f)
+        pickle.dump(best_model,f)
 
-    return model, r2, mae
+    return best_model, r2, mae

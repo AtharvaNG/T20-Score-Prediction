@@ -219,3 +219,4 @@ test_data_preprocessing.py
 test_feature_engineering.py
 test_data_transformation.py
 test_model_trainer.py
+test_predict_pipeline.py
