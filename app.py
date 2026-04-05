@@ -23,9 +23,20 @@ teams = ["India",
 ]
 
 cities = [
-    "Mumbai", "Delhi", "Bangalore", "Chennai",
-    "Kolkata", "Hyderabad", "Durban", "London"
-]  # You can expand based on dataset
+    'Melbourne', 'Adelaide', 'Harare', 'Napier', 'Mount Maunganui',
+       'Auckland', 'Southampton', 'Cardiff', 'Chester-le-Street',
+       'Nagpur', 'Bangalore', 'Lauderhill', 'Dubai', 'Abu Dhabi',
+       'Sydney', 'Hobart', 'Wellington', 'Hamilton', 'Barbados',
+       'Trinidad', 'Colombo', 'Birmingham', 'Manchester', 'Bristol',
+       'Delhi', 'Rajkot', 'Lahore', 'Johannesburg', 'Centurion',
+       'Cape Town', 'Mumbai', 'Dhaka', 'Sylhet', 'Karachi', 'Brisbane',
+       'Kolkata', 'Gros Islet', 'Basseterre', 'Canberra', 'Perth',
+       'Durban', 'Chandigarh', 'Christchurch', 'Providence', 'Kandy',
+       'Chattogram', 'Pune', 'Rawalpindi', 'Nottingham', 'Ahmedabad',
+       'Bridgetown', "St George's", 'Sharjah', 'Tarouba', 'Kingston',
+       'London', 'Dambulla', 'St Lucia', 'Pallekele', 'Mirpur',
+       'Hambantota', 'Chittagong'
+]  
 
 # -----------------------------
 # User Inputs
